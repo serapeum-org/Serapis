@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "serapis"
+abstract: "Flood simulation model"
+authors:
+  - family-names: Farrag
+    given-names: Mostafa
+    email: moah.farag@gmail.com
+version: "0.2.0"
+date-released: 2025-12-29
+license: GPL-3.0
+repository-code: "https://github.com/serapeum-org/Serapis"
+url: "https://serapeum-org.github.io/docs/python-packages/hydrological-modeling/serapis/"
+keywords:
+  - "Hydraulics"
+  - "Flood model"
+  - "Inundation model"
